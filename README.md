@@ -73,7 +73,7 @@ ChatGPT
 
 ## Acknowledgments
  
--Jehovah that keeps breath in my longs 
+-Jehovah that keeps breath in my lungs 
 
 ## Q2 Answers
 

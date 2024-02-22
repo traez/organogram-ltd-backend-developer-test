@@ -1,2 +1,0 @@
-help refactor so xyz is replaced by 
-https://github.com/traez/organogram-ltd-backend-developer-test
