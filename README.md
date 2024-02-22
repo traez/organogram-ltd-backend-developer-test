@@ -94,15 +94,15 @@ To design the database for optimal performance with a large number of merchants,
 My choice of a database would be informed by the need for efficient handling of complex relationships, support for indexing and scalability to accommodate a large number of merchants and products.
 
 ## API Endpoints
-Goods Endpoints
+Goods Endpoints  
 
-1. Get All Goods
-Endpoint: /api/goods/
-Method: GET
-Purpose: Retrieves a list of all goods.
-Expected Output: An array of goods objects.
+1. Get All Goods  
+Endpoint: /api/goods/  
+Method: GET  
+Purpose: Retrieves a list of all goods.  
+Expected Output: An array of goods objects.  
 
-2. Create a New Good
+2. Create a New Good  
 Endpoint: /api/goods/
 Method: POST
 Purpose: Creates a new good.
