@@ -77,7 +77,7 @@ ChatGPT
 
 ## Q2 Answers
 
-![](entity-relationship-diagram.png)
+![](entity-relationship-diagram.PNG)
 
 Entity-Relationship Diagram (ERD): 
 +------------------+          +------------------+
